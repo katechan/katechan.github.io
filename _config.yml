@@ -4,18 +4,18 @@ markdown: redcarpet
 
 # 作者信息
 author:
-  name: Yeung Ben
-  email: yeungben@163.com
-  link: http://blog.youngben.net
-  weibo: http://weibo.com/GeekBen
-  github: http://github.com/yeungben
+  name: ckd
+  email: chenkaidaa@163.com
+  link: http://katechan.github.io
+  weibo: http://weibo.com/
+  github: http://github.com/katechan
   music: http://douban.fm/
-  linkedin: https://cn.linkedin.com/in/geekben
+  linkedin: https://cn.linkedin.com/
 
 # 站点信息
-title: Ben's Blog
+title: ckd's Blog
 description: My personal blog
-url: http://blog.youngben.net
+url: http://katechan.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: yeungben
+  shortname: ckd
 
 # 站内搜索:
 # 微搜索:/pages/search.html

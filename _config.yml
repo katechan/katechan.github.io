@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: katechan
+  shortname: ckdblog
 
 # 站内搜索:
 # 微搜索:/pages/search.html

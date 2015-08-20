@@ -6,30 +6,30 @@ markdown: redcarpet
 author:
   name: ckd
   email: chenkaidaa@163.com
-  link: http://katechan.github.io
+  link: https://katechan.github.io
   weibo: http://weibo.com/
-  github: http://github.com/katechan
+  github: https://github.com/katechan
   music: http://douban.fm/
   linkedin: https://cn.linkedin.com/
 
 # 站点信息
 title: ckd's Blog
 description: My personal blog
-url: http://katechan.github.io
+url: https://katechan.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/Me.png
-favicon: /public/img/ben.png
+favicon: /public/img/Me.png
 
 # google analytics 设置
 ga:
-  id: UA-61303211-1
-  url: blog.youngben.net
+  id: UA-66520108-1
+  url: katechan.github.io
 
 # disqus 设置
 disqus:
-  shortname: ckd
+  shortname: katechan
 
 # 站内搜索:
 # 微搜索:/pages/search.html

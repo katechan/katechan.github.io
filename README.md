@@ -3,9 +3,8 @@
 
 ###博客地址
 
-http://blog.youngben.net
+https://katechan.github.io
 
-http://www.youngben.net
 
 ####使用本项目作为博客模板，仅需如下几步：
 
@@ -34,16 +33,16 @@ button显示修改在-include/footer.html和base.js里面
 
 ####联系方式
 
-联系方式：qq(609160644)
+联系方式：qq(1406534977)
 
-email(yeungben@163.com)
+email(kaikaiduo@foxmail.com)
 
-新浪微博：http://weibo.com/geekben
-
+新浪微博：http://weibo.com/
+非常感谢youngben技术支持。
 
 ####使用本项目作模板的博客链接
 http://blog.youngben.net
-
+https://katechan.github.io
 (你的位置)
 
  *^_^*如果愿意，Star本项目一个吧~
